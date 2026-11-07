@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "Addserverprecheck_fabric_26.3",
+  "id": "addserverprecheck",
   "version": "0.1.0-alpha.1",
   "name": "Add Server Pre-check",
   "description": "Check if a Minecraft server is online before adding it to your server list. If the connection fails, it shows you the error so you know what went wrong.",
