@@ -3,11 +3,13 @@ plugins {
     id 'maven-publish'
 }
 
-version = '1.0.0'
+version = '0.1.0-alpha.1'
 group = 'com.addserverprecheck'
 
+def modArchiveName = 'Addserverprecheck_fabric_26.3'
+
 base {
-    archivesName = 'addserverprecheck'
+    archivesName = modArchiveName
 }
 
 repositories {
@@ -31,7 +33,7 @@ dependencies {
 }
 
 processResources {
-    def modVersion = version
+    def modVersion = project.version
 
     inputs.property "version", modVersion
 
@@ -51,6 +53,8 @@ java {
 }
 
 jar {
+    archiveFileName = "${modArchiveName}_${project.version}.jar"
+
     from("LICENSE") {
         rename { "${it}_addserverprecheck" }
     }

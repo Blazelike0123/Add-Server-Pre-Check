@@ -9,4 +9,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'addserverprecheck'
+rootProject.name = 'Addserverprecheck_fabric_26.3'
