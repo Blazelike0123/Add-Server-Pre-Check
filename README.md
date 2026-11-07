@@ -21,10 +21,10 @@ Add Server Precheck is a lightweight, client-side Minecraft mod that checks whet
 
 Found a bug or experiencing a problem?
 
-Please report it through the project's GitHub Issues page. Include a description of the problem and, when possible, steps to reproduce it.
+Please report it through the project's [Github issues](https://github.com/Blazelike0123/Add-Server-Pre-Check/issues/). Include a description of the problem and, when possible, steps to reproduce it.
 
 # License
 
-Add Server Pre-check is licensed under the MIT License. You are free to use, modify, and redistribute the software under its license terms.
+Add Server Pre-check is licensed under the [MIT license](https://mit-license.org/). You are free to use, modify, and redistribute the software under its license terms.
 
-See the LICENSE file for details.
+See the [LICENSE](https://github.com/Blazelike0123/Add-Server-Pre-Check/blob/main/LICENSE) file for details.
