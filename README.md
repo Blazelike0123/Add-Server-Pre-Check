@@ -23,10 +23,6 @@ Add Server Precheck is a lightweight, client-side Minecraft mod that checks whet
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/add-server-pre-check)
 - [GitHub Source Code](https://github.com/Blazelike0123/Add-Server-Pre-Check)
 
-## Support
-
-Found a bug or need help? [Report it here](https://github.com/Blazelike0123/Add-Server-Pre-Check/issues).
-
 # Reporting Issues
 
 Found a bug or experiencing a problem?
