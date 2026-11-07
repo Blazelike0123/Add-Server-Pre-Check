@@ -9,8 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/add-server-pre-check",
-    "issues": "https://github.com/Blazelike01/Add-Server-Pre-check/issues",
-    "sources": "https://github.com/Blazelike01/Add-Server-Pre-check"
+    "issues": "https://github.com/Blazelike0123/Add-Server-Pre-Check/issues",
+    "sources": "https://github.com/Blazelike0123/Add-Server-Pre-Check"
   },
   "environment": "*",
   "entrypoints": {
