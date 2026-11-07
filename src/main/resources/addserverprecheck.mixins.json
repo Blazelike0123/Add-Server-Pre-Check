@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.addserverprecheck.mixin",
+  "client": [
+    "ManageServerScreenAccessor",
+    "AddServerPrecheckMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
