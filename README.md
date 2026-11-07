@@ -14,6 +14,8 @@ Add Server Precheck is a lightweight, client-side Minecraft mod that checks whet
 - **Loading Animation**: A simple three-dot animation while the server is being checked.
 
 - **Add Anyway**: Choose to add the server even when the connection check fails.
+  
+- **Go back**: Edit or return to server list.
 
 # Reporting Issues
 
