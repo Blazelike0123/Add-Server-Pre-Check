@@ -1,21 +1,24 @@
-.gradle
-**/build/
-!src/**/build/
+# Gradle
+.gradle/
+build/
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# Local Minecraft files
+run/
+run-*/
+crash-reports/
+logs/
+*.log
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
-
-# Cache of project
-.gradletasknamecache
-
-# Eclipse Gradle plugin generated files
-# Eclipse Core
+# IDE generated files
+bin/
+out/
+.settings/
 .project
-# JDT-specific (Eclipse Java Development Tools)
 .classpath
+*.launch
+.idea/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
