@@ -84,5 +84,3 @@ The source code is available in the [GitHub repository](https://github.com/Blaze
 Add Server Pre-check is open source under the [MIT License](LICENSE). You may use, modify, and redistribute it according to the terms of that license.
 
 ---
-
-**Add Server Pre-check — Check before you add.**
