@@ -4,7 +4,7 @@
 
 Add Server Pre-check is a lightweight, client-side Fabric mod for Minecraft. It checks whether a multiplayer server responds before you save its address to your server list. If the check fails, the mod shows an error so you can understand what went wrong and choose what to do next.
 
-![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-green) ![Fabric](https://img.shields.io/badge/Mod%20loader-Fabric-blue) ![Client-side](https://img.shields.io/badge/Environment-Client--side-purple) ![MIT License](https://img.shields.io/badge/License-MIT-yellow) ![Alpha](https://img.shields.io/badge/Status-Alpha-orange)
+![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-green) ![Fabric](https://img.shields.io/badge/Mod%20loader-Fabric-blue) ![Client-side](https://img.shields.io/badge/Environment-Client--side-purple) ![MIT License](https://img.shields.io/badge/License-MIT-yellow) ![Beta](https://img.shields.io/badge/Status-Beta-brown)
 
 ## Download
 
